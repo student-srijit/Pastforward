@@ -11,12 +11,13 @@ Whether it’s a royal decree, a revolutionary speech, or a snapshot of daily li
 
 **Presentation Link**:
 
-https://docs.google.com/presentation/d/1PC9J7_nf_X8zuRKeX_Jw09rF2KhYCQiy/edit?usp=drivesdk&ouid=118321480189044695096&rtpof=true&sd=true
-
+[https://drive.google.com/file/
+](https://drive.google.com/file/d/1LuXAL4pK1uYWUM77X98XrzUIAiRaJCyz/view?usp=sharing)
 
 **Live Demo** : 
 
-[https://pastforward-neon.vercel.app/](https://pastforward-hw5xudvwk-student-srijits-projects.vercel.app/)
+[https://pastforward-neon.vercel.app/](https://pastforward-codecuisine.vercel.app/)
+
 
 ## Screenshots
 
